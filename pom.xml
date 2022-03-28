@@ -12,17 +12,8 @@
 	<artifactId>demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
-	<!--	<properties>-->
-	<!--		<maven.compiler.source>1.8</maven.compiler.source>-->
-	<!--		<java.version>1.8</java.version>-->
-	<!--	</properties>-->
+	<description>ITI 42 Java for ML project using wuzzuf dataset</description>
 	<dependencies>
-		<!--		<dependency>-->
-		<!--			<groupId>org.scala-lang</groupId>-->
-		<!--			<artifactId>scala-reflect</artifactId>-->
-		<!--			<version> 2.11.1 </version>-->
-		<!--		</dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>

@@ -1,0 +1,154 @@
+{
+	"variables": [],
+	"info": {
+		"name": "Java",
+		"_postman_id": "46bd7651-9590-8d66-49ad-746e19c54c37",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:6800/display_data",
+			"request": {
+				"url": "http://localhost:6800/display_data",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/display_structure",
+			"request": {
+				"url": "http://localhost:6800/display_structure",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/display_summary",
+			"request": {
+				"url": "http://localhost:6800/display_summary",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/clean_data",
+			"request": {
+				"url": "http://localhost:6800/clean_data",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/display_top_companies",
+			"request": {
+				"url": "http://localhost:6800/display_top_companies",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/display_pie_chart",
+			"request": {
+				"url": "http://localhost:6800/display_pie_chart",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/display_top_titles",
+			"request": {
+				"url": "http://localhost:6800/display_top_titles",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/title_bar_chart",
+			"request": {
+				"url": "http://localhost:6800/title_bar_chart",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/display_top_locations",
+			"request": {
+				"url": "http://localhost:6800/display_top_locations",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/location_bar_chart",
+			"request": {
+				"url": "http://localhost:6800/location_bar_chart",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/display_top_skills",
+			"request": {
+				"url": "http://localhost:6800/display_top_skills",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/display_YearsExp",
+			"request": {
+				"url": "http://localhost:6800/display_YearsExp",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:6800/kmeans",
+			"request": {
+				"url": "http://localhost:6800/kmeans",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
